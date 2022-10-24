@@ -1,0 +1,30 @@
+body{
+   
+    background-color: #6a3d5a;
+   
+}
+
+.principal{
+    display: flex;
+    padding: 50px;
+    border: 1px solid black;
+    margin-top: 10%;
+    background: #66666e;
+}
+
+form{
+    display: inline-block;
+    margin: 0 auto;
+    width: 40%;
+    text-align: center;
+    height: 40%;
+    color: white;
+}
+
+#valorIncremento{
+    display: block;
+}
+
+.codif{
+    display: block;
+}
